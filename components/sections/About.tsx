@@ -102,7 +102,7 @@ function RightAbout() {
 
 function AboutListC(props: AboutListT) {
   return (
-    <div className="flex justify-start pr-5 w-full md:w-[50%] items-start gap-5">
+    <div className="flex justify-start pr-5 w-full md:w-[50%] items-center gap-5">
       <div className="relative w-12 h-12 bg-neutral-800 rounded-full aspect-square">
         <Image alt="" src={props.iconLink} fill />
       </div>
