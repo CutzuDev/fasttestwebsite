@@ -6,6 +6,6 @@ body {
   @apply bg-black;
 }
 
-* {
+/* * {
   @apply outline outline-1 outline-red-600/50;
-}
+} */
